@@ -1,0 +1,1 @@
+# thiranex-password-strength-analyser
